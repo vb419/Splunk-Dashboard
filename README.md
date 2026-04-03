@@ -9,3 +9,10 @@ Create a splunk Dashboard which reflects Ratings Business TODAY having different
 6. Number of jobs for which ratings are Added to CORE today
 7. Number of jobs for which ratings are Released to CORE today
 8. Number of PCRs published today
+
+
+
+
+References 
+
+https://www.youtube.com/watch?v=rxYWHhW_VVc
